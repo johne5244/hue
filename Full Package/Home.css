@@ -1,0 +1,33 @@
+
+.Home-container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color:black;
+    background-image: image("Image.jpg")
+}
+.Home >button{
+   height: 30px;
+   width: 150px;
+   margin-top: 20px;
+   color:black;
+   border: none;
+   background-color:orange;
+   
+}
+.MeetTeam >button{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    color:black;
+    border: none;
+    background-color:orange;
+ }
+ .Loging > button{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    color:black;
+    border: none;
+    background-color:orange;
+ }
